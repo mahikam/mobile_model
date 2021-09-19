@@ -1,0 +1,82 @@
+body{
+    background-color: #99acc9;
+}
+.header{
+    font-family: 'Tourney', cursive;
+    color: #586b87;
+}
+.logo{
+    width: 100px;
+}
+.heading{
+    background-color: white;
+    top: -25px;
+    position: absolute;
+    margin-left: 400px;
+    padding-left: 20px;
+}
+.main_div{
+    background-color: #667a8a;
+    margin-top: 103px;
+    padding: 10px;
+    border: 2px solid white;
+}
+.main_div label{
+    color: #434445;
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+    font-family: 'Satisfy', cursive;
+    font-size: 25px
+}
+#camera{
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+    width: 300px;
+    font-size: 25px;
+    box-shadow: 5px 5px 18px white;
+    font-family: 'Satisfy', cursive;
+}
+#result{
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 18px white;
+}
+.answer{
+    background-color: white;
+    box-shadow: 5px 5px 18px white;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 70px;
+    border-radius: 30px;
+    color: #434445;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #c0c1c2;
+    color: #434445;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-family: 'Satisfy', cursive;
+}
+#object_name{
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    color: #586b87;
+    text-decoration: underline;
+}
+#head_logo{
+    height: 100px;
+    margin-left: -2px;
+}
